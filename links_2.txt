@@ -1,0 +1,10 @@
+https://dzone.com/articles/getting-started-with-cloud-firestore-part-two
+
+ https://dzone.com/articles/getting-started-with-cloud-firestore-part-one
+
+
+https://dzone.com/articles/cloud-firestore-read-write-update-and-delete
+
+https://android.jlelse.eu/build-a-phonebook-with-cloud-firestore-in-10-minutes-59c65e7af4ad
+
+https://firebase.google.com/docs/firestore/manage-data/add-data
